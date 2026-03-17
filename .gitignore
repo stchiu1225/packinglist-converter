@@ -1,0 +1,15 @@
+# output files
+output/
+
+# sample pdf
+sample_pdfs/
+
+# excel
+*.xlsx
+
+# pdf
+*.pdf
+
+# python cache
+__pycache__/
+*.pyc
